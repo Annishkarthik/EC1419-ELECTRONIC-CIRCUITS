@@ -7,7 +7,7 @@
 
 
 # Tabulation with readings
-<img width="2582" height="1104" alt="WhatsApp Image 2026-06-06 at 10 36 32 PM" src="https://github.com/user-attachments/assets/779a7913-2776-4fe3-b81e-bec7c1abf788" />
+<img width="835" height="1280" alt="WhatsApp Image 2026-06-06 at 10 48 29 PM" src="https://github.com/user-attachments/assets/08afcd9e-3e87-4bae-ab4f-98cdfb570e0c" />
 
 <img width="1280" height="706" alt="WhatsApp Image 2026-06-06 at 10 48 49 PM" src="https://github.com/user-attachments/assets/7b9a51c8-9fa2-44c3-80f0-cf0c8c5fccbd" />
 
