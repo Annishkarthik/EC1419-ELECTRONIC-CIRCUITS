@@ -25,6 +25,7 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
+<img width="720" height="1280" alt="WhatsApp Image 2026-06-06 at 9 21 37 PM" src="https://github.com/user-attachments/assets/8c76941d-057e-424c-a20d-b127e4d46459" />
 
 ## Graph
 
@@ -33,5 +34,7 @@
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
 **VOLTAGE GAIN =**
+<img width="1049" height="1600" alt="WhatsApp Image 2026-06-06 at 9 28 45 PM" src="https://github.com/user-attachments/assets/bae84ee3-a347-4eff-9cd0-c523398c9029" />
 
 **BANDWIDTH =**
+<img width="1600" height="1387" alt="WhatsApp Image 2026-06-06 at 9 25 10 PM" src="https://github.com/user-attachments/assets/736c0278-889f-4ff2-aa4f-ced36dc51656" />
