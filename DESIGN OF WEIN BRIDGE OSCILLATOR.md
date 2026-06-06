@@ -19,8 +19,5 @@
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
-
-
 Theoritical Frequency of Oscillation =
 <img width="1280" height="720" alt="WhatsApp Image 2026-06-06 at 9 48 03 PM" src="https://github.com/user-attachments/assets/a856ba9b-975b-48c7-b8bf-0d716c5fcc23" />
