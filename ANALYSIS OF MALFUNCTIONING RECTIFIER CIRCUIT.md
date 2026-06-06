@@ -5,6 +5,8 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
+<img width="1280" height="720" alt="WhatsApp Image 2026-06-06 at 10 26 36 PM" src="https://github.com/user-attachments/assets/9b375a48-5618-428e-ad1a-86f9e73fe4d2" />
+
 
 ## GRAPHS
 
